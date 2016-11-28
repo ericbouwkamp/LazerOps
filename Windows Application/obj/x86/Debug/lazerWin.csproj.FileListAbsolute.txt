@@ -1,0 +1,11 @@
+C:\Users\ejb47\Desktop\lazerWin\lazerWin\bin\Debug\lazerWin.exe
+C:\Users\ejb47\Desktop\lazerWin\lazerWin\bin\Debug\lazerWin.pdb
+C:\Users\ejb47\Desktop\lazerWin\lazerWin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ejb47\Desktop\lazerWin\lazerWin\obj\x86\Debug\lazerWin.lazerWin.resources
+C:\Users\ejb47\Desktop\lazerWin\lazerWin\obj\x86\Debug\lazerWin.Properties.Resources.resources
+C:\Users\ejb47\Desktop\lazerWin\lazerWin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ejb47\Desktop\lazerWin\lazerWin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ejb47\Desktop\lazerWin\lazerWin\obj\x86\Debug\lazerWin.exe
+C:\Users\ejb47\Desktop\lazerWin\lazerWin\obj\x86\Debug\lazerWin.pdb
+C:\Users\ejb47\Desktop\lazerWin\lazerWin\obj\x86\Debug\lazerWin.UDPDebug.resources
+C:\Users\ejb47\Desktop\lazerWin\lazerWin\obj\x86\Debug\lazerWin.ServerDebug.resources
